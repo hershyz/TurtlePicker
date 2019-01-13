@@ -1,0 +1,10 @@
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\bin\Debug\TurtlePicker.exe.config
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\bin\Debug\TurtlePicker.exe
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\bin\Debug\TurtlePicker.pdb
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\obj\Debug\TurtlePicker.csprojAssemblyReference.cache
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\obj\Debug\TurtlePicker.Form1.resources
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\obj\Debug\TurtlePicker.Properties.Resources.resources
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\obj\Debug\TurtlePicker.csproj.GenerateResource.cache
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\obj\Debug\TurtlePicker.csproj.CoreCompileInputs.cache
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\obj\Debug\TurtlePicker.exe
+C:\Users\bagal\desktop\projects\TurtlePicker\TurtlePicker\obj\Debug\TurtlePicker.pdb
